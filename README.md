@@ -4,6 +4,7 @@ A powerful and customizable **Flutter-based Image Editor** that allows users to 
 This project is suitable for learning purposes as well as for integrating basic image editing functionality into Flutter applications.
 
 ---
+[Here’s the Complete Guide to Build an Image Editor in Flutter with Crop, Rotate, & Filter.](https://www.sevensquaretech.com/create-flutter-image-editor-crop-rotate-filter-github-code/)
 
 ## ✨ Features
 
